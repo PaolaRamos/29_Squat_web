@@ -18,7 +18,7 @@ h2{
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-      width: 50%;
+      width: 10%;
       margin: auto;
   }
 .chic{
@@ -29,7 +29,7 @@ h2{
 }
 .btn{
 	color: white;
-	background-color: red;
+	background-color: #264d73;
 	width: 30%;
 	height: 60%;
 	display: block;
@@ -37,4 +37,30 @@ h2{
 }
 .matop{
 	margin-top: 2%;
+}
+h2{
+	font-style: bold;
+	font-stretch: bold;
+	color: #264d73;
+}
+.center{
+	text-align: center;
+	margin-top: 3%;
+}
+.hov{
+	position: absolute;
+	top: 0;
+	background-color: rgba(38, 77, 115, 0.5);
+	width:130%;
+	height: 100%;
+	opacity:0;
+	
+
+}
+.hov:hover{
+	opacity: 1;
+}
+.distrac{
+	width: 100%;
+	height: 100%;
 }
