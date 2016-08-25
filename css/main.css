@@ -6,6 +6,9 @@ nav.navbar{
 	background-color: transparent;
 	border-color: transparent;
 }
+.fond{
+	background-color: 
+}
 .foco{
 	display: inline;
 	width: 20%;
@@ -36,7 +39,7 @@ h2{
 	margin-top: 3%;
 }
 .matop{
-	margin-top: 15%;
+	margin-top: 40%;
 }
 h2{
 	font-style: bold;
@@ -63,4 +66,21 @@ h2{
 .distrac{
 	width: 100%;
 	height: 100%;
+}
+.hovy{
+	position: absolute;
+	top: 0;
+	background-color: rgba(0, 179, 179, 0.5);
+	width:90%;
+	height: 100%;
+	opacity:0;
+	
+
+}
+.hovy:hover{
+	opacity: 1;
+}
+.mde{
+	width: 100%;
+
 }
