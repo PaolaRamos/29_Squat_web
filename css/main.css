@@ -1,0 +1,40 @@
+*{
+	font-family: Tahoma;
+}
+
+nav.navbar{
+	background-color: transparent;
+	border-color: transparent;
+}
+.foco{
+	display: inline;
+	width: 20%;
+	
+}
+h2{
+	display: inline;
+}
+
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 50%;
+      margin: auto;
+  }
+.chic{
+	width: 15%;
+	margin-right: 2%;
+	align-content: center;
+	margin-top: 2%;
+}
+.btn{
+	color: white;
+	background-color: red;
+	width: 30%;
+	height: 60%;
+	display: block;
+	margin-top: 3%;
+}
+.matop{
+	margin-top: 2%;
+}
